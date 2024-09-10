@@ -1,5 +1,3 @@
-local Core = exports.vorp_core:GetCore()
-
 local T = Translation.Langs[Config.Language]
 
 RegisterServerEvent('jr-3dme:shareDisplay')

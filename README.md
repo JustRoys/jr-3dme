@@ -1,6 +1,5 @@
 # JR-3DME
 
----
 <p align="center">
   <img alt="GitHub Release" src="https://img.shields.io/github/v/release/JustRoys/jr-3dme">
   <img alt="Downloads" src="https://img.shields.io/github/downloads/JustRoys/jr-3dme/total">
@@ -25,3 +24,6 @@ This can be used in roleplay.
 > These scripts are included :
 >
 > If you use [jr-basics](https://github.com/JustRoys/jr-basics) you don't need to have this script. It's already in there
+
+# Screenshot(s) :
+![image](https://github.com/user-attachments/assets/ca643004-a3be-46d0-97e5-01dfae538cad)
